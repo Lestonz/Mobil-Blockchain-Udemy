@@ -1,0 +1,2 @@
+export const YOUR_SMART_CONTRACT_ADDRESS = "0xB7738e7C6471EC2443D7DBfD3581bCCE12E81012"
+  export const YOUR_PROVIDER_LINK_GOERLI = "https://goerli.infura.io/v3/YourProviderID"

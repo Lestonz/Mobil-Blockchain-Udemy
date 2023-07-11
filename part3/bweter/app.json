@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "bweter",
+    "slug": "bweter",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.lestonz.bweter"
+    }
+  }
+}
